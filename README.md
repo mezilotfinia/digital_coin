@@ -15,7 +15,6 @@ Embark on a journey into the world of cryptocurrencies with Digital Coin, the An
   <img src="https://github.com/mezilotfinia/digital_coin/blob/master/Screen%20shot/file.png" width="150" />
   <img src="https://github.com/mezilotfinia/digital_coin/blob/master/Screen%20shot/file2.png" width="150" />
   <img src="https://github.com/mezilotfinia/digital_coin/blob/master/Screen%20shot/file3.png" width="150" />
-  <img src="https://github.com/mezilotfinia/digital_coin/blob/master/Screen%20shot/file4.png" width="150" />
   <img src="https://github.com/mezilotfinia/digital_coin/blob/master/Screen%20shot/file5.png" width="150" />
 </p>
 
