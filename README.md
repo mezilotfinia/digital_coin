@@ -72,28 +72,3 @@ To use Firebase services in this project, you need to obtain API keys and config
 5. Follow the instructions to register your app and download the `google-services.json` file.
 
 6. Place the `google-services.json` file in the `app` module of your Android project.
-
-
-## Getting Started
-
-To get started with this project, follow the steps below.
-
-### Prerequisites
-
-- Android Studio installed
-- Android device or emulator
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/sajad-zarini/digital_coin.git
-```
-
-# Contact
-
-Sajad Zarini<br>
-[@linkedin](https://www.linkedin.com/in/sajad-zarini-7930551b5/)<br>
-email: sajadzarini61@gmail.com<br>
-Project Link: https://github.com/sajad-zarini/digital_coin.git
